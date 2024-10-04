@@ -1,0 +1,67 @@
+/**
+ * @name Gruvbox
+ * @author mohvn
+ * @description Pastel 'retro groove' colorscheme for Discord https://github.com/mohvn/gruvbox-discord
+ * @version 0.0.2
+ */
+
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css);
+
+:root {
+
+  --settingsicons: 1;
+
+  --accentcolor: 215, 153, 33;
+  --accentcolor2: 69, 133, 136;
+  --linkcolor: 215, 153, 33;
+  --mentioncolor: 215, 153, 33;
+  --successcolor: 152, 151, 26;
+  --warningcolor: 215, 153, 33;
+  --dangercolor: 251, 73, 52;
+
+  --textbrightest: 251, 241, 199;
+  --textbrighter: 235, 219, 178;
+  --textbright: 235, 219, 178;
+  --textdark: 146, 131, 116;
+  --textdarker: 146, 131, 116;
+  --textdarkest: 124, 111, 100;
+  
+  --backgroundaccent: 40, 40, 40;
+  --backgroundprimary: 29, 32, 33;
+  --backgroundsecondary: 29, 32, 33;
+  --backgroundsecondaryalt: 29, 32, 33;
+  --backgroundtertiary: 29, 32, 33;
+  --backgroundfloating: 29, 32, 33;
+}
+
+.themedBackground__6b1b6 {
+  background: transparent;
+}
+
+.channelTextArea__2e60f {
+  margin-bottom: 12px;
+}
+
+.scrollerSpacer__9cd32 {
+  height: 16px;
+}
+
+.sansAttachButton__996a4 {
+  padding-left: 0;
+}
+
+.input__848cd {
+  background: transparent;
+}
+
+.quickswitcher_a3d29a {
+  padding: 0;
+}
+
+.scroller__52ae7 {
+  margin-right: 0;
+}
+
+.protip__84833 {
+  padding-inline: 10px;
+}
