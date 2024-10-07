@@ -1,6 +1,6 @@
 <div align=center>
 <img src="https://github.com/user-attachments/assets/3a452139-64ce-4222-be66-40fef16ad700">
-  <h3>Gruvbox for <a href="https://discord.com/">Discord</a></h3>
+  <h2>Gruvbox for <a href="https://discord.com/">Discord</a></h2>
   <p align=center>Pastel 'retro groove' colorscheme for Discord</p>
 </div>
 
